@@ -2,7 +2,7 @@
 <h3 align="left">About Me</h3>
 <p>I'm a computer scientist and frontend developer, I'm looking for a first opportunity to demonstrate my skills acquired over these years. </p>
 
-- 👨‍💻 Page Personal: [rodrigoreis12.github.io/portfolio/](rodrigoreis12.github.io/portfolio/)
+- 👨‍💻 Page Personal: https://rodrigoreis12.github.io/portfolio/
 
 - 📫 Email: **rodrigorebartini@hotmail.com**
 
